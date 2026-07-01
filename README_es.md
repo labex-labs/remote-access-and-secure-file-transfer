@@ -1,38 +1,29 @@
 # Acceso Remoto y Transferencia Segura de Archivos
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![Acceso Remoto y Transferencia Segura de Archivos](https://course-cover.labex.io/remote-access-and-secure-file-transfer.png?lang=es)](https://labex.io/es/courses/remote-access-and-secure-file-transfer)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/remote-access-and-secure-file-transfer)
+<p align="center">
+  <a href="https://labex.io/es/courses/remote-access-and-secure-file-transfer">
+    <img src="https://course-cover.labex.io/remote-access-and-secure-file-transfer.png?lang=es" alt="Acceso Remoto y Transferencia Segura de Archivos">
+  </a>
+</p>
 
 Aprenda sobre Acceso Remoto y Transferencia Segura de Archivos. Este módulo cubre la Conexión vía SSH, Autenticación con Clave SSH, Copia Segura de Archivos con SCP y RSYNC, Transferencia Interactiva de Archivos con SFTP, Configuración de SSH y Alias. Dominará estas habilidades esenciales de Linux a través de laboratorios prácticos y desafíos del mundo real.
 
-![devops-engineer](https://img.shields.io/badge/devops-engineer-whitesmoke?style=for-the-badge&logo=devops-engineer)
-![linux](https://img.shields.io/badge/linux-whitesmoke?style=for-the-badge&logo=linux)
-![devops](https://img.shields.io/badge/devops-whitesmoke?style=for-the-badge&logo=devops)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/remote-access-and-secure-file-transfer)
 
 ## Ejercicios
 
-|   Índice | Nombre                                             | Dificultad   | Práctica                                                                                                                                                            |
-|----------|----------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|        1 | 🧩 🆓 Conexión mediante SSH                          | Principiante | <a target='_blank' href='https://labex.io/es/labs/connecting-via-ssh-636453?course=remote-access-and-secure-file-transfer'>Iniciar Laboratorio</a>                  |
-|        2 | 🧩 🆓 Autenticación mediante claves SSH              | Principiante | <a target='_blank' href='https://labex.io/es/labs/ssh-key-authentication-636457?course=remote-access-and-secure-file-transfer'>Iniciar Laboratorio</a>              |
-|        3 | 🧩 🆓 Copia segura de archivos con SCP y RSYNC       | Principiante | <a target='_blank' href='https://labex.io/es/labs/secure-file-copy-with-scp-and-rsync-636455?course=remote-access-and-secure-file-transfer'>Iniciar Laboratorio</a> |
-|        4 | 🧩 🆓 Transferencia interactiva de archivos con SFTP | Principiante | <a target='_blank' href='https://labex.io/es/labs/interactive-file-transfer-with-sftp-636454?course=remote-access-and-secure-file-transfer'>Iniciar Laboratorio</a> |
-|        5 | 🧩 🆓 Configuración y alias de SSH                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/ssh-config-and-aliases-636456?course=remote-access-and-secure-file-transfer'>Iniciar Laboratorio</a>              |
-|        6 | 🎯 🆓 Misión de Despliegue Seguro                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/secure-deployment-mission-636637?course=remote-access-and-secure-file-transfer'>Iniciar Desafío</a>               |
+|   Índice | Nombre                                         | Dificultad   | Práctica                                                                                                                                                    |
+|----------|------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|        1 | Conexión mediante SSH                          | Principiante | <a target='_blank' href='https://labex.io/es/labs/connecting-via-ssh-636453?course=remote-access-and-secure-file-transfer'>Iniciar lab</a>                  |
+|        2 | Autenticación mediante claves SSH              | Principiante | <a target='_blank' href='https://labex.io/es/labs/ssh-key-authentication-636457?course=remote-access-and-secure-file-transfer'>Iniciar lab</a>              |
+|        3 | Copia segura de archivos con SCP y RSYNC       | Principiante | <a target='_blank' href='https://labex.io/es/labs/secure-file-copy-with-scp-and-rsync-636455?course=remote-access-and-secure-file-transfer'>Iniciar lab</a> |
+|        4 | Transferencia interactiva de archivos con SFTP | Principiante | <a target='_blank' href='https://labex.io/es/labs/interactive-file-transfer-with-sftp-636454?course=remote-access-and-secure-file-transfer'>Iniciar lab</a> |
+|        5 | Configuración y alias de SSH                   | Principiante | <a target='_blank' href='https://labex.io/es/labs/ssh-config-and-aliases-636456?course=remote-access-and-secure-file-transfer'>Iniciar lab</a>              |
+|        6 | Misión de Despliegue Seguro                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/secure-deployment-mission-636637?course=remote-access-and-secure-file-transfer'>Iniciar desafío</a>       |
 
-## Acerca de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [DevOps Engineer Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [DevOps Engineer Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [DevOps Engineer Tutoriales Gratuitos](https://github.com/labex-labs/devops-engineer-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
